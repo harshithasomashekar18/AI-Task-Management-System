@@ -1,0 +1,5 @@
+body { margin: 0; padding-top: 76px; background: #f8f9fa; }
+.navbar { background: white; box-shadow: 0 1px 8px #00000015; }
+.login-page, .signup-page { padding: 3rem 0; }
+.login-form, .signup-form { background: white; border-radius: 1rem; }
+.detail-card p { overflow-wrap: anywhere; }
